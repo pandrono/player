@@ -33,7 +33,7 @@
         float: none;
         clear: both;
         width: 100%;
-        position: relative;
+        position: absolute;
         padding-bottom: 56.25%; /* 16:9 */
         padding-top: 25px;
         height: 0;
