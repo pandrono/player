@@ -1,5 +1,4 @@
-<script>
-    "use strict";
+"use strict";
     document.addEventListener('DOMContentLoaded', function() {
         // Activate only if not already activated
         if (window.hideYTActivated) return;
@@ -51,4 +50,3 @@
         
         window.hideYTActivated = true;
     });
-</script>
